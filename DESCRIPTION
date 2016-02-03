@@ -4,7 +4,7 @@ Title: Simple wrapper around the elex tool
 Version: 1.0
 Date: 2016-02-02
 Author: Geoff Hing
-Maintainer: <geoffhing@gmail.com>
+Maintainer: Geoff Hing <geoffhing@gmail.com>
 Description: Wraps the elex tool to provide R access to Associated Press election results
 License: MIT
 RoxygenNote: 5.0.1
